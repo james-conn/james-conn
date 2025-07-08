@@ -5,7 +5,7 @@ I recently finished my batch at the [Recurse Center](https://recurse.com).
 
 I'm currently an undergraduate computer science student at Stevens Institute of Technology.
 
-## My Projects
+### My Projects
 - [ssec-core](https://github.com/james-conn/ssec-core)
   - file format designed for password protected end-to-end encrypted file transfer
   - Rust library for streaming to/from the format
